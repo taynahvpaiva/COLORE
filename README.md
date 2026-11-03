@@ -23,11 +23,6 @@ Trocou de cor, trocou de som.
 - Componentes eletrônicos (alto-falante, fiação, etc.)
 - Programação embarcada
 
-## Estrutura do repositório
-
-- `codigo/`: código-fonte do projeto
-- `apresentacao/`: slides e materiais da apresentação
-
 ## Sobre o projeto
 
 Trabalho acadêmico que explora como hardware e tecnologia podem apoiar práticas terapêuticas. O COLORE não substitui acompanhamento profissional, mas mostra um caminho para tornar essas práticas mais interativas.
